@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tl.yttrium.io/"
 languageCode = "en-us"
 title = "hotel's translations"
 theme = "hugo.386"
