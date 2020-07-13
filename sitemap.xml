@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://tl.yttrium.io/</loc>
     <lastmod>2020-07-12T20:16:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hello-world/</loc>
+    <loc>https://tl.yttrium.io/posts/hello-world/</loc>
     <lastmod>2020-07-12T20:16:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://tl.yttrium.io/posts/</loc>
     <lastmod>2020-07-12T20:16:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://tl.yttrium.io/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tl.yttrium.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/index/</loc>
+    <loc>https://tl.yttrium.io/tags/index/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/rezero/</loc>
+    <loc>https://tl.yttrium.io/series/rezero/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tl.yttrium.io/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/rezero/ark5/</loc>
+    <loc>https://tl.yttrium.io/series/rezero/ark5/</loc>
   </url>
   
 </urlset>
