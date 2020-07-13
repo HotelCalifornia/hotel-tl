@@ -1,7 +1,7 @@
 baseURL = "https://tl.yttrium.io/"
 languageCode = "en-us"
 title = "hotel's translations"
-theme = "hugo.386"
+theme = "386"
 preserveTaxonomyName = true
 
 [params]
