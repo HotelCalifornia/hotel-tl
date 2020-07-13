@@ -1,0 +1,10 @@
+{{ $series := .Params.series }}
+{{ $ark := .Params.ark }}
+
+<h2>chapters</h2>
+
+<ul>
+{{ range where (where (where .Site.RegularPages "Type" "chapter") .Params.series "==" $series) .Params.ark "==" $ark }}
+<li>{{ .Title }}</li>
+{{ end }}
+</ul>

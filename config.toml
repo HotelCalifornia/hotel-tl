@@ -1,0 +1,70 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "hotel's translations"
+theme = "hugo.386"
+preserveTaxonomyName = true
+
+[params]
+    mainpagetitle = "home"
+    mainpagesubtitle = "welcome to my humble abode"
+    mainpagedesc = "mostly jp->en translations live here"
+    copyrightname = "hotelcalifornia"
+    copyrighturl = "https://github.com/hotelcalifornia"
+
+    showhugo = false
+
+    twitter = "https://twitter.com/hotel_senpai"
+    github = "https://github.com/hotelcalifornia"
+
+    loadfastload = false
+    loadspeedfactor = 1.0
+    loadonepass = false
+
+[params.copyright]
+    name = "hotelcalifornia"
+    prefix = ""
+    suffix = "![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about/"
+        weight = 30
+
+    [[menu.main]]
+        identifier = "posts"
+        name = "all posts"
+        url = "/posts/"
+        weight = 20
+    
+    [[menu.main]]
+        identifier = "series"
+        name = "all series"
+        url = "/series/"
+        weight = 10
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[privacy]
+    [privacy.vimeo]
+        disabled = false
+        simple = true
+    [privacy.twitter]
+        disabled = false
+        enableDNT = true
+        simple = true
+    [privacy.instagram]
+        disabled = false
+        simple = true
+    [privacy.youtube]
+        disabled = false
+        privacyEnhanced = true
+    
+[services]
+    [services.instagram]
+        disableInlineCSS = true
+    [services.twitter]
+        disableInlineCSS = true
