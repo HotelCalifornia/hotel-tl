@@ -40,5 +40,3 @@ desparate voice, breathing heavily.
 this seemingly abusive declaration is made to cheer up the spirit of one on the
 verge of wilting. "you must not think of that tired feeling as fatigue, nor of
 that effort as hardship."
-
-
